@@ -1,4 +1,4 @@
-# PoliThome-Rehan
+# PoliThome-Rehab
 Progetto per l'esami di "Soluzioni di grafica 3D in applicazioni biometriche"
 
 1) "PolitHome Project.pptx": presentazione del progetto.
